@@ -1,6 +1,6 @@
 ## <strong>Hello World</strong> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-My name is Johnny Shollaj and I am a Research Engineer with extensive experience in data analytics, machine learning and digital marketing. 
+My name is Johnny Shollaj and I am a Research Analyst with extensive experience in data analytics, machine learning and digital marketing. 
 
 :mailbox: Send me a message here :arrow_double_down:
 
@@ -11,7 +11,7 @@ My name is Johnny Shollaj and I am a Research Engineer with extensive experience
 ### <strong>About me</strong>
 
 
-&#127891; MSBA at National University of Singapore
+&#127891; Researcher at National University of Singapore
 
 &#128246; Using data to derive insights for business solutions
 
